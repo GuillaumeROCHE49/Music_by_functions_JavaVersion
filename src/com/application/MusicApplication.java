@@ -11,9 +11,6 @@ import static java.lang.Math.round;
  * Created by Guillaume ROCHE on 07/05/2023.
  * Email : guillaume.roche@reseau.eseo.fr
  * 
- * All rights reserved. No part of this file may be reproduced without
- * permission in writing from the author.
- * 
  * Project : Generated some music with functions
  */
 
