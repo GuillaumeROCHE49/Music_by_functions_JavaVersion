@@ -1,7 +1,7 @@
 # Music Generation with Java Functions
 
 [![License](https://img.shields.io/badge/License-All%20Rights%20Reserved-blue.svg)](LICENSE.md)
-[![Last Commit](https://img.shields.io/github/last-commit/your-username/music-generation-java)](https://github.com/guillaume-rce/music_by_functions_JavaVersion)
+[![Last Commit](https://img.shields.io/github/last-commit/guillaume-rce/music_by_functions_JavaVersion)](https://github.com/guillaume-rce/music_by_functions_JavaVersion)
 
 This project aims to generate music using mathematical functions in Java. 
 
